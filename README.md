@@ -1,6 +1,6 @@
 Hi there, I'm Khamis Mussa! 👋
 
-I want to be Software Developer
+Aspiring Software Developer
 
 An aspiring IT and Software Engineering professional passionate about building efficient software solutions, managing data systems, and working with open-source technologies. Currently focusing on robust backend development and interactive web systems.
 
